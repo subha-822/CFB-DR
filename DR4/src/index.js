@@ -25,12 +25,3 @@ import ReactDOM from "react-dom";
 //   </div>,
 //   document.getElementById("root")
 // );
-
-/* 3rd Part */
-
-ReactDOM.render(
-  <div>
-    <li>Hai</li>
-  </div>,
-  document.getElementById("root")
-);
